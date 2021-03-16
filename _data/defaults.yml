@@ -1,4 +1,5 @@
 home:
-  heading: "Medical data analysis \n         Computer Vision & AI"
+  heading1: "Medical data analysis"
+  heading2: "Computer Vision & AI"
   subheading: "세종대학교 한창희"
   banner: "./assets/images/banner/home.jpg"
